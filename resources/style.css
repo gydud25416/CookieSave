@@ -1,0 +1,6 @@
+*{padding:0; margin:0; list-style: none; }
+div{width:300px; height:100px; text-align: center; margin:0 auto; position:relative; top:200px;}
+ul{width:300px; height:70px; background:#00578a; transition:0.5s; overflow: hidden;}
+ul.on{height:0px;}
+ul li {border:#002a42 1px solid; height:50%; color:white;}
+a{width:300px; height:30px; background:black; color:white; text-decoration: none; display: block;}
